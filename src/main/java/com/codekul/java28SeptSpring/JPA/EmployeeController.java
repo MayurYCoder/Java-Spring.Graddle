@@ -33,7 +33,7 @@ public class EmployeeController {
         return "records get";
     }
 
-    //    @DeleteMapping("deletemp/{id}")
+    //    @DeleteMapping("deletemp/{i.d}")
 //    public String deletemp(@PathVariable(value="id")Integer id){
 //        employeeRepository.deleteById(id);
 //        return "records deleated";
